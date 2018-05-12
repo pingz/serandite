@@ -2,12 +2,19 @@
   "name": "serandite",
   "version": "0.2.0",
   "homepage": "https://pingz.biz/cidr-calc/",
+  "description": "a material-ui based CIDR calculator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pingz/serandite.git"
+  },
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-plugin-react": "^7.8.1"
   },
   "dependencies": {
-    "material-ui": "^0.20.0",
+    "material-ui": "^1.0.0-beta.47",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
   }
